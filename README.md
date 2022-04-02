@@ -5,7 +5,7 @@ Connect with me via cli
 👇 just hit
 
 ```bash
-    npx ayushpaharia
+npx ayushpaharia
 ```
 
 ---
