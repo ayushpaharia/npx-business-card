@@ -1,0 +1,29 @@
+{
+  "name": "ayushpaharia",
+  "version": "6.0.0",
+  "main": "cli.mjs",
+  "scripts": {
+    "dev": "nodemon cli.mjs",
+    "pub": "npm version major & npm publish"
+  },
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^5.0.1",
+    "inquirer": "^8.2.2",
+    "nyan-progress": "^1.1.0",
+    "open": "^8.4.0"
+  },
+  "bin": "./cli.mjs",
+  "keywords": [
+    "npx card",
+    "npx",
+    "card",
+    "cli",
+    "cli card"
+  ],
+  "author": "Ayush Paharia <ayushpaharia.me> (https://ayushpaharia.me/)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
